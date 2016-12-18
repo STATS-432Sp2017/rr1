@@ -1,4 +1,8 @@
-# HW0 - Due at noon on 1/11
+# HW0 
+
+## Due dates:
+> Steps 1 and 2 by noon on 1/11.
+> Step 3 by the end of class on 1/12 (we will work on it in class).
 
 1. Create an account on http://www.github.com/
     + Choose your username carefully.
