@@ -1,4 +1,4 @@
-# HW0 
+# Reading response 1 
 
 ## Due dates:
 > Steps 1 and 2 by noon on 1/11.
