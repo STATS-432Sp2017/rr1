@@ -20,3 +20,4 @@
 |     Full Name           | Github username | Slack username |
 |-------------------------|-----------------|----------------|
 | Daniel McDonald         | dajmcdon        | dajmcdon       |
+| Gunchang Kim          | gunckim       |   gunckim   |  
