@@ -22,3 +22,4 @@
 | Daniel McDonald         | dajmcdon        | dajmcdon       |
 | Gunchang Kim          | gunckim       |   gunckim   |  
 | Michael McBride         | mtmcbride       | mmcbride       |
+| Ashley Lu               | yutonglu        | yutonglu       |
