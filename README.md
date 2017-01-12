@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Reading response 1 
 
 ## Due dates:
@@ -60,6 +61,8 @@
 | Andrew Chuang           | ahchuang        | ahchuang       |
 >>>>>>> master
 =======
+=======
+>>>>>>> master
 # Reading response 1 
 
 ## Due dates:
@@ -90,5 +93,12 @@
 | Andrew Chuang           | ahchuang        | ahchuang       |
 | Miriam Hu               | mmhu            | mmhu           |
 | Jackson Taylor	  | jct5	    | jct5	     |
+<<<<<<< HEAD
 |Jenni Mindock            | jmindock        | jmindock       |
+>>>>>>> master
+=======
+| Eungkoo Kahng           | eukahng         | eukahng        |
+| Syaza Senin		  | syazasenin      | syazasenin     |
+| Youngihn Kwon		  | chbrown1017     | chbrown1017     |
+
 >>>>>>> master
