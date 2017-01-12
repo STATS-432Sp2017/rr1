@@ -28,6 +28,7 @@
 | Jenni Mindock          |jmindock         | mindockj      |
 | Miriam Hu               | mmhu            | mmhu           |
 | Jackson Taylor	  | jct5	    | jct5	     |
+| Jiaqi Xie      | jiaqxie       | jiaqxie      |
 | Eungkoo Kahng           | eukahng         | eukahng        |
 | Syaza Senin		  | syazasenin      | syazasenin     |
 | Youngihn Kwon		  | chbrown1017     | chbrown1017     |
