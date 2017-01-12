@@ -40,3 +40,4 @@
 | Liang Zou     | liazou    | liazou   |
 | Wanqi Geng      | asteriageng    |       asteriageng|
 | Xinlu Zhang    |    zhanxinl |     zhanxinl |
+| Lester Blumberg	  | leblumbe	    | leblumbe	     |
