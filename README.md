@@ -20,12 +20,33 @@
 |     Full Name           | Github username | Slack username |
 |-------------------------|-----------------|----------------|
 | Daniel McDonald         | dajmcdon        | dajmcdon       |
+<<<<<<< HEAD
 | Gunchang Kim          | gunckim       |   gunckim   |  
 | Annoying test | no username | no username |
+=======
+| Gunchang Kim          | gunckim       |   gunckim   | 
+>>>>>>> master
 | Michael McBride         | mtmcbride       | mmcbride       |
 | Ashley Lu               | yutonglu        | yutonglu       |
 | Davide Behr             | behrd           | behrd          |
 | Andrew Chuang           | ahchuang        | ahchuang       |
+<<<<<<< HEAD
 | Miriam Hu               | mmhu            | mmhu           |
 | Jackson Taylor	  | jct5	    | jct5	     |
 | Eungkoo Kahng           | eukahng         | eukahng        |
+| Jiaqi Xie               | jiaqxie         | jiaqxie        |
+
+=======
+| Jenni Mindock          |jmindock         | |mindockj      |
+| Miriam Hu               | mmhu            | mmhu           |
+| Jackson Taylor	  | jct5	    | jct5	     |
+| Eungkoo Kahng           | eukahng         | eukahng        |
+| Syaza Senin		  | syazasenin      | syazasenin     |
+| Youngihn Kwon		  | chbrown1017     | chbrown1017     |
+| yaoyu wang        | wangyaoy        | wangyaoy        |
+| Eungkoo Kahng           | eukahng         | eukahng        |
+| Syaza Senin		  | syazasenin      | syazasenin     |
+| Youngihn Kwon		  | chbrown1017     | chbrown1017     
+| Qiongyu Zhang       | powerzqy        | powerzqy       |
+| Angel Wang      | angelwang        | wang576       |
+>>>>>>> master
