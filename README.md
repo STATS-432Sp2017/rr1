@@ -36,3 +36,7 @@
 | Syaza Senin		  | syazasenin      | syazasenin     |
 | Youngihn Kwon		  | chbrown1017     | chbrown1017     
 | Qiongyu Zhang       | powerzqy        | powerzqy       |
+| Liang Zou     | liazou    | liazou   |
+| Wanqi Geng      | asteriageng    |       asteriageng|
+| Xinlu Zhang    |    zhanxinl |     zhanxinl |
+
