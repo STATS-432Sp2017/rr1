@@ -25,7 +25,7 @@
 | Ashley Lu               | yutonglu        | yutonglu       |
 | Davide Behr             | behrd           | behrd          |
 | Andrew Chuang           | ahchuang        | ahchuang       |
-| Jenni Mindock          |jmindock         | |mindockj      |
+| Jenni Mindock          |jmindock         | mindockj      |
 | Miriam Hu               | mmhu            | mmhu           |
 | Jackson Taylor	  | jct5	    | jct5	     |
 | Eungkoo Kahng           | eukahng         | eukahng        |
