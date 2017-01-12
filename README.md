@@ -27,3 +27,4 @@
 | Davide Behr             | behrd           | behrd          |
 | Andrew Chuang           | ahchuang        | ahchuang       |
 | Miriam Hu               | mmhu            | mmhu           |
+| Jackson Taylor	  | jct5	    | jct5	     |
