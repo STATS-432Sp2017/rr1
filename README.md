@@ -24,3 +24,4 @@
 | Michael McBride         | mtmcbride       | mmcbride       |
 | Ashley Lu               | yutonglu        | yutonglu       |
 | Davide Behr             | behrd           | behrd          |
+| Andrew Chuang           | ahchuang        | ahchuang       |
