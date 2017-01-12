@@ -25,3 +25,4 @@
 | Ashley Lu               | yutonglu        | yutonglu       |
 | Davide Behr             | behrd           | behrd          |
 | Andrew Chuang           | ahchuang        | ahchuang       |
+| Jenni Mindock          |jmindock         | |mindockj      |
