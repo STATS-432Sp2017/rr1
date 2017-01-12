@@ -26,3 +26,4 @@
 | Ashley Lu               | yutonglu        | yutonglu       |
 | Davide Behr             | behrd           | behrd          |
 | Andrew Chuang           | ahchuang        | ahchuang       |
+| Miriam Hu               | mmhu            | mmhu           |
